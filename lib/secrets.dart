@@ -1,0 +1,1 @@
+const  openweatherapikey="589f2eec3d34a973df77c8a409f09584";
